@@ -9,4 +9,4 @@ Javascript is used for coding the mainframe of the node inquirer. <br>
 Node Inquirer is used to process the JS of the coding frame. <br>
 
 ## Demo
-![Professional Readme Generator Demo](https://youtu.be/dhyItd0HKj0)
+https://youtu.be/dhyItd0HKj0
